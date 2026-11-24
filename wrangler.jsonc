@@ -7,8 +7,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "ahcx-db",
-      "database_id": "1c5a6edc-9152-497d-bc6a-1bbf110152b2"
+      "database_name": "sample-db",
+      "database_id": "05aeff78-49b4-4b11-ac75-1278291f138b"
     }
   ]
 }
